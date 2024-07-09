@@ -1,4 +1,4 @@
-FROM mikaya200/sewqueen:fullcontrol
+FROM mikaya200/xnxxdl:fullcontrol
 
 RUN git clone https://github.com/mikaya200/xnxxdl/root/xnxx
 WORKDIR /root/xnxx/
